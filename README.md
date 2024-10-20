@@ -22,7 +22,7 @@ cd k8s-demo
 
 ### 2. Create Docker Image
 
-Create frontend and bcakend images for docker by running:
+Create frontend and backend images for docker by running:
 
 ```bash
 docker build -t frontend-flaskblog:latest .
